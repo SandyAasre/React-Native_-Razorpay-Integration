@@ -12,9 +12,12 @@ Installation
 Using npm:
 
 npm install --save react-native-razorpay
+
+
 or using yarn:
 
 yarn add react-native-razorpay
+
 For Expo Users:
 
 npx expo install react-native-razorpay
